@@ -18,7 +18,6 @@ def solution(id_list, report, k):
     for i in panswer:
         answer.append(panswer[i])
 
-
     return answer
     
 #다른사람풀이
